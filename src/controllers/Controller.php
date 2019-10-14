@@ -1,7 +1,7 @@
 <?php
 
 
-namespace RajaSaadhvi\Framework;
+namespace RajaSaadhvi\Framework\Controllers;
 
 
 class Controller
