@@ -14,7 +14,7 @@
     "autoload": {
         "psr-4": {
             "RajaSaadhvi\\Framework\\": "src/",
-            "RajaSaadhvi\\Framework\\Controllers\\": "src/controllers"
+            "RajaSaadhvi\\Framework\\Controllers\\": "src/controllers/"
         }
     }
 }
