@@ -14,7 +14,16 @@
     "autoload": {
         "psr-4": {
             "RajaSaadhvi\\Framework\\": "src/",
-            "RajaSaadhvi\\Framework\\Controllers\\": "src/controllers/"
+            "RajaSaadhvi\\Framework\\Controllers\\": "src/controllers/",
+            "RajaSaadhvi\\Framework\\Router\\Interfaces\\": "src/router/interfaces/",
+            "RajaSaadhvi\\Framework\\Router\\Classes\\": "src/router/classes/",
+            "RajaSaadhvi\\Framework\\Request\\Interfaces\\": "src/request/interfaces/",
+            "RajaSaadhvi\\Framework\\Request\\Classes\\": "src/request/classes/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
         }
     }
 }
