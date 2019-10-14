@@ -1,0 +1,19 @@
+{
+    "name": "raja_saadhvi/framework",
+    "description": "MVC in PHP",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "PassAssociates",
+            "email": "47845505+PassAssociates@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "RajaSaadhvi\\Framework\\": "src/"
+        }
+    }
+}
